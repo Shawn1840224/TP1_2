@@ -6,15 +6,44 @@
   "Vedette": [
     {
       "Nom": "Sandra Bullock",
+      "Age": 56,
       "Personnage": "Scarlet Overkill (voix)"
     },
     {
       "Nom": "Jon Hamm",
+      "Age": 49,
       "Personnage": "Herb Overkill  (voix)"
     },
     {
       "Nom": "Michael Keaton",
+      "Age": 69,
       "Personnage": "Walter Nelson (voix)"
+    }
+  ],
+  "Box Office": [
+    {
+      "Budget": "
+}
+{
+  "Titre": "Fightclub",
+  "directeur": "David Fincher",
+  "Auteur": "Chuck Palahniuk, Jim Uhls",
+  "Date": 1999,
+  "Vedette": [
+    {
+      "Nom": "Brad Pitt",
+      "Age": 56,
+      "Personnage": "Tyler Durden"
+    },
+    {
+      "Nom": "Edward Norton",
+      "Age": 51,
+      "Personnage": "The Narrator"
+    },
+    {
+      "Nom": "Meat Loaf",
+      "Age": 72,
+      "Personnage": "Robert 'Bob' Paulsen"
     }
   ]
 }
